@@ -1,0 +1,5 @@
+1.12.3
+pypi(certifi)
+pypi(python_dateutil)
+pypi(six)
+pypi(urllib3)
