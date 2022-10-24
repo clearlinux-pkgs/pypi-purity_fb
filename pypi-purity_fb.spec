@@ -4,7 +4,7 @@
 #
 Name     : pypi-purity_fb
 Version  : 1.12.3
-Release  : 7
+Release  : 8
 URL      : https://files.pythonhosted.org/packages/9f/01/b3dee76d5a2fddaa51e7ce709a521411d5d8b1944e37797a609f2d25b388/purity-fb-1.12.3.tar.gz
 Source0  : https://files.pythonhosted.org/packages/9f/01/b3dee76d5a2fddaa51e7ce709a521411d5d8b1944e37797a609f2d25b388/purity-fb-1.12.3.tar.gz
 Summary  : Pure Storage FlashBlade REST 1.12 Python SDK
